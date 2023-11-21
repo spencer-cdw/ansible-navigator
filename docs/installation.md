@@ -73,7 +73,7 @@
     macOS.  Native source mounts from macOS through the [podman] machine into
     the execution environment are not currently available.
 
-    See this [related issue][macOS podman issue #8016] for details.
+    See this [macOS podman issue #8016] for details.
 
 ### Install ansible-navigator (macos)
 
@@ -251,3 +251,5 @@ From the Ubuntu terminal:
 [ubuntu]: https://ubuntu.com
 [windows subsystem for linux 2]:
   https://docs.microsoft.com/en-us/windows/wsl/install-win10
+[macOS podman issue #8016]:
+  https://github.com/containers/podman/issues/8016
